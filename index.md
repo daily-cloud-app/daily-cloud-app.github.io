@@ -1,39 +1,68 @@
 ---
 title: Daily Cloud App
+description: Simple apps for managing everyday schedules, photos, and videos.
+lang: en
 ---
 
 # Daily Cloud App
 
-毎日の記録や予定を、シンプルに管理するためのアプリを開発しています。  
-We develop simple apps for managing everyday schedules, photos, and videos.
+Simple apps for managing everyday schedules, photos, and videos.  
+*毎日の予定・写真・動画をシンプルに管理するためのアプリ。*
 
-## Apps
+- [English](#english)
+- [日本語](#日本語)
 
-### DailyLifeFlow
+---
 
-1日の予定をタイムラインで確認・管理できるスケジュールアプリです。Google カレンダーとの連携にも対応しています。
+## English
 
-A daily timeline and scheduling app with Google Calendar integration.
+**Daily Cloud App** develops simple, practical apps for managing everyday schedules and backing up personal media.
 
-[DailyLifeFlow の詳細を見る / Learn more about DailyLifeFlow](./flow/)
+### Apps
 
-### Daily Cloud Photo
+#### Daily Life Flow
 
-自分で用意したクラウド環境へ、写真を自動的にバックアップするためのアプリです。
+An Android app for viewing and managing daily events and tasks on a timeline, with optional Google Calendar integration.
 
-An app that automatically backs up photos to your own cloud environment.
+[Learn more about Daily Life Flow](./flow/)
 
-### Daily Cloud Video
+#### Daily Cloud Photo
 
-自分で用意したクラウド環境へ、動画を自動的にバックアップするためのアプリです。
+An Android app that automatically backs up photos to a cloud environment prepared and managed by the user.
 
-An app that automatically backs up videos to your own cloud environment.
+#### Daily Cloud Video
 
-## Support and Privacy
+An Android app that automatically backs up videos to a cloud environment prepared and managed by the user.
 
-各アプリのサポート情報およびプライバシーポリシーは、それぞれのアプリページまたは Google Play のストア掲載情報からご確認ください。
+### Support and privacy
 
 Support information and privacy policies are available on each app page or its Google Play store listing.
+
+---
+
+## 日本語
+
+**Daily Cloud App**では、毎日の予定管理や個人の写真・動画のバックアップに役立つ、シンプルで実用的なアプリを開発しています。
+
+### アプリ
+
+#### Daily Life Flow
+
+1日の予定とタスクをタイムラインで確認・管理できるAndroidアプリです。任意でGoogleカレンダーとも連携できます。
+
+[Daily Life Flowの詳細を見る](./flow/)
+
+#### Daily Cloud Photo
+
+利用者自身が用意・管理するクラウド環境へ、写真を自動的にバックアップするAndroidアプリです。
+
+#### Daily Cloud Video
+
+利用者自身が用意・管理するクラウド環境へ、動画を自動的にバックアップするAndroidアプリです。
+
+### サポートとプライバシー
+
+各アプリのサポート情報およびプライバシーポリシーは、それぞれのアプリページまたはGoogle Playのストア掲載情報からご確認ください。
 
 ---
 
